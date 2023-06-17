@@ -18,5 +18,6 @@ It basically uses 4 terms to authorize the user to access the resource.
 
 ![(345) OAuth2   Spring boot 3   Social login _ never been easier - YouTube - Google Chrome 17-06-2023 14_35_13](https://github.com/Karthikn-n/OAuth-2.0/assets/102584859/0aa7e332-d056-4a2d-b681-a3775210e0a1)
 
-- I mentioned the youtube link on guide 
-**Thank for teaching [@ali-bouali](https://github.com/ali-bouali)** @
+- I mentioned the youtube link on guide <a href="https://github.com/Karthikn-n/OAuth-2.0/blob/main/OAuth_2__Login_guide.pdf" target="_blank">PDF</a>
+
+**Thank you for teaching [@ali-bouali](https://github.com/ali-bouali)** 
